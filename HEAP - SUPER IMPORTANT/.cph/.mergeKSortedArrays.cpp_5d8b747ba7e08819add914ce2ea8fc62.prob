@@ -1,1 +1,0 @@
-{"name":"Local: mergeKSortedArrays","url":"c:\\Users\\DELL\\Desktop\\C++\\HEAP - SUPER IMPORTANT\\mergeKSortedArrays.cpp","tests":[{"id":1661790134187,"input":"3\n3\n1 4 6\n2\n2 3\n3\n5 6 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\Desktop\\C++\\HEAP - SUPER IMPORTANT\\mergeKSortedArrays.cpp","group":"local","local":true}
